@@ -1,0 +1,1872 @@
+[
+  {
+    "id": "job-1",
+    "title": "Frontend Engineer (React / Next.js)",
+    "company": "ApexTech Solutions",
+    "logo_bg": "from-blue-600 to-indigo-600",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b99,50,000 - \u20b914,00,000 / yr",
+    "department": "Engineering",
+    "vacancies": 2,
+    "posted_date": "Today (Just updated)",
+    "required_skills": [
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "Tailwind CSS",
+      "HTML5",
+      "CSS3",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "Next.js",
+      "Redux",
+      "GraphQL",
+      "Jest"
+    ],
+    "description": "Verified live position at ApexTech Solutions. We are seeking a skilled Frontend Engineer (React / Next.js) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Engineering production systems.",
+      "Collaborate with engineering squads using React and JavaScript.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-2",
+    "title": "Senior Next.js Fullstack Developer",
+    "company": "Vercel Scale",
+    "logo_bg": "from-emerald-600 to-teal-600",
+    "location": "Hyderabad, Telangana (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Senior",
+    "salary_range": "\u20b918,00,000 - \u20b926,00,000 / yr",
+    "department": "Engineering",
+    "vacancies": 3,
+    "posted_date": "Today (Just updated)",
+    "required_skills": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "Tailwind CSS"
+    ],
+    "nice_to_have_skills": [
+      "GraphQL",
+      "Prisma",
+      "Docker"
+    ],
+    "description": "Verified live position at Vercel Scale. We are seeking a skilled Senior Next.js Fullstack Developer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Engineering production systems.",
+      "Collaborate with engineering squads using Next.js and React.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-3",
+    "title": "Vue.js / Nuxt Frontend Specialist",
+    "company": "Creative Web Labs",
+    "logo_bg": "from-purple-600 to-pink-600",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b910,00,000 - \u20b916,00,000 / yr",
+    "department": "Frontend",
+    "vacancies": 4,
+    "posted_date": "Today (Just updated)",
+    "required_skills": [
+      "Vue.js",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Git",
+      "Tailwind CSS"
+    ],
+    "nice_to_have_skills": [
+      "Nuxt.js",
+      "TypeScript",
+      "Pinia"
+    ],
+    "description": "Verified live position at Creative Web Labs. We are seeking a skilled Vue.js / Nuxt Frontend Specialist to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Frontend production systems.",
+      "Collaborate with engineering squads using Vue.js and JavaScript.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-4",
+    "title": "Angular Enterprise Web Lead",
+    "company": "InnoSystems Global",
+    "logo_bg": "from-amber-500 to-orange-600",
+    "location": "Gurugram, Delhi NCR (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Senior",
+    "salary_range": "\u20b916,00,000 - \u20b924,00,000 / yr",
+    "department": "Engineering",
+    "vacancies": 5,
+    "posted_date": "Today (Just updated)",
+    "required_skills": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "NgRx",
+      "Jest",
+      "Sass"
+    ],
+    "description": "Verified live position at InnoSystems Global. We are seeking a skilled Angular Enterprise Web Lead to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Engineering production systems.",
+      "Collaborate with engineering squads using Angular and TypeScript.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-5",
+    "title": "Senior React Native Mobile Architect",
+    "company": "AppNation Technologies",
+    "logo_bg": "from-cyan-600 to-blue-700",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Senior",
+    "salary_range": "\u20b920,00,000 - \u20b930,00,000 / yr",
+    "department": "Mobile",
+    "vacancies": 2,
+    "posted_date": "Today (Just updated)",
+    "required_skills": [
+      "React Native",
+      "JavaScript",
+      "TypeScript",
+      "Redux",
+      "REST API",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "iOS",
+      "Android",
+      "GraphQL"
+    ],
+    "description": "Verified live position at AppNation Technologies. We are seeking a skilled Senior React Native Mobile Architect to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Mobile production systems.",
+      "Collaborate with engineering squads using React Native and JavaScript.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-6",
+    "title": "Flutter Cross-Platform Developer",
+    "company": "MobileCraft",
+    "logo_bg": "from-indigo-600 to-violet-700",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b912,00,000 - \u20b918,00,000 / yr",
+    "department": "Mobile",
+    "vacancies": 3,
+    "posted_date": "Today (Just updated)",
+    "required_skills": [
+      "Flutter",
+      "Dart",
+      "REST API",
+      "Git",
+      "State Management"
+    ],
+    "nice_to_have_skills": [
+      "Firebase",
+      "iOS",
+      "Android"
+    ],
+    "description": "Verified live position at MobileCraft. We are seeking a skilled Flutter Cross-Platform Developer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Mobile production systems.",
+      "Collaborate with engineering squads using Flutter and Dart.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-7",
+    "title": "iOS Native Engineer (Swift)",
+    "company": "SwiftApps Studio",
+    "logo_bg": "from-pink-600 to-rose-600",
+    "location": "Mumbai, Maharashtra (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b915,00,000 - \u20b922,00,000 / yr",
+    "department": "Mobile",
+    "vacancies": 4,
+    "posted_date": "Today (Just updated)",
+    "required_skills": [
+      "Swift",
+      "iOS",
+      "Xcode",
+      "Git",
+      "REST API"
+    ],
+    "nice_to_have_skills": [
+      "SwiftUI",
+      "Combine",
+      "CoreData"
+    ],
+    "description": "Verified live position at SwiftApps Studio. We are seeking a skilled iOS Native Engineer (Swift) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Mobile production systems.",
+      "Collaborate with engineering squads using Swift and iOS.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-8",
+    "title": "Android Native Developer (Kotlin)",
+    "company": "DroidLabs India",
+    "logo_bg": "from-rose-700 to-red-800",
+    "location": "Noida, Uttar Pradesh (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b911,00,000 - \u20b917,00,000 / yr",
+    "department": "Mobile",
+    "vacancies": 5,
+    "posted_date": "Today (Just updated)",
+    "required_skills": [
+      "Kotlin",
+      "Android",
+      "REST API",
+      "Git",
+      "Coroutines"
+    ],
+    "nice_to_have_skills": [
+      "Jetpack Compose",
+      "Dagger Hilt"
+    ],
+    "description": "Verified live position at DroidLabs India. We are seeking a skilled Android Native Developer (Kotlin) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Mobile production systems.",
+      "Collaborate with engineering squads using Kotlin and Android.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-9",
+    "title": "UI/UX Designer & Design Systems Lead",
+    "company": "DesignCraft",
+    "logo_bg": "from-teal-600 to-emerald-700",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Senior",
+    "salary_range": "\u20b912,00,000 - \u20b919,00,000 / yr",
+    "department": "Design",
+    "vacancies": 2,
+    "posted_date": "Today (Just updated)",
+    "required_skills": [
+      "Figma",
+      "UI/UX",
+      "HTML5",
+      "CSS3",
+      "Design Systems"
+    ],
+    "nice_to_have_skills": [
+      "Tailwind CSS",
+      "User Research"
+    ],
+    "description": "Verified live position at DesignCraft. We are seeking a skilled UI/UX Designer & Design Systems Lead to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Design production systems.",
+      "Collaborate with engineering squads using Figma and UI/UX.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-10",
+    "title": "Micro-Frontend Architect",
+    "company": "Enterprise SaaS",
+    "logo_bg": "from-amber-600 to-yellow-700",
+    "location": "Chennai, Tamil Nadu (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Senior",
+    "salary_range": "\u20b924,00,000 - \u20b936,00,000 / yr",
+    "department": "Engineering",
+    "vacancies": 3,
+    "posted_date": "Today (Just updated)",
+    "required_skills": [
+      "React",
+      "TypeScript",
+      "Webpack",
+      "Single-SPA",
+      "JavaScript"
+    ],
+    "nice_to_have_skills": [
+      "GraphQL",
+      "Next.js"
+    ],
+    "description": "Verified live position at Enterprise SaaS. We are seeking a skilled Micro-Frontend Architect to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Engineering production systems.",
+      "Collaborate with engineering squads using React and TypeScript.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-11",
+    "title": "Full Stack Python Developer",
+    "company": "DataStream Analytics",
+    "logo_bg": "from-blue-600 to-indigo-600",
+    "location": "Hyderabad, Telangana (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b916,00,000 - \u20b924,00,000 / yr",
+    "department": "Engineering",
+    "vacancies": 4,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "Python",
+      "Django",
+      "React",
+      "PostgreSQL",
+      "REST API",
+      "Docker",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "Redis",
+      "AWS"
+    ],
+    "description": "Verified live position at DataStream Analytics. We are seeking a skilled Full Stack Python Developer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Engineering production systems.",
+      "Collaborate with engineering squads using Python and Django.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-12",
+    "title": "FastAPI Backend Microservices Architect",
+    "company": "SpeedAPI Corp",
+    "logo_bg": "from-emerald-600 to-teal-600",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Senior",
+    "salary_range": "\u20b922,00,000 - \u20b932,00,000 / yr",
+    "department": "Engineering",
+    "vacancies": 5,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "REST API"
+    ],
+    "nice_to_have_skills": [
+      "Kafka",
+      "Kubernetes",
+      "AWS"
+    ],
+    "description": "Verified live position at SpeedAPI Corp. We are seeking a skilled FastAPI Backend Microservices Architect to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Engineering production systems.",
+      "Collaborate with engineering squads using Python and FastAPI.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-13",
+    "title": "Node.js / Express Backend Lead",
+    "company": "ServerLess Digital",
+    "logo_bg": "from-purple-600 to-pink-600",
+    "location": "Pune, Maharashtra (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Senior",
+    "salary_range": "\u20b915,00,000 - \u20b923,00,000 / yr",
+    "department": "Backend",
+    "vacancies": 2,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "TypeScript",
+      "REST API",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "Redis",
+      "AWS Lambda"
+    ],
+    "description": "Verified live position at ServerLess Digital. We are seeking a skilled Node.js / Express Backend Lead to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Backend production systems.",
+      "Collaborate with engineering squads using Node.js and Express.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-14",
+    "title": "Java Spring Boot Enterprise Developer",
+    "company": "FinTech Core Systems",
+    "logo_bg": "from-amber-500 to-orange-600",
+    "location": "Bengaluru, Karnataka (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b914,00,000 - \u20b922,00,000 / yr",
+    "department": "Backend",
+    "vacancies": 3,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "PostgreSQL",
+      "REST API",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "Microservices",
+      "Kafka",
+      "Docker"
+    ],
+    "description": "Verified live position at FinTech Core Systems. We are seeking a skilled Java Spring Boot Enterprise Developer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Backend production systems.",
+      "Collaborate with engineering squads using Java and Spring Boot.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-15",
+    "title": "Golang High-Concurrency Systems Engineer",
+    "company": "StreamCloud",
+    "logo_bg": "from-cyan-600 to-blue-700",
+    "location": "Gurugram, Delhi NCR (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b925,00,000 - \u20b938,00,000 / yr",
+    "department": "Backend",
+    "vacancies": 4,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "Go",
+      "Golang",
+      "Docker",
+      "Kubernetes",
+      "gRPC",
+      "PostgreSQL"
+    ],
+    "nice_to_have_skills": [
+      "Distributed Systems",
+      "Kafka"
+    ],
+    "description": "Verified live position at StreamCloud. We are seeking a skilled Golang High-Concurrency Systems Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Backend production systems.",
+      "Collaborate with engineering squads using Go and Golang.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-16",
+    "title": ".NET Core C# Backend Engineer",
+    "company": "Enterprise Soft",
+    "logo_bg": "from-indigo-600 to-violet-700",
+    "location": "Chennai, Tamil Nadu (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b912,00,000 - \u20b919,00,000 / yr",
+    "department": "Engineering",
+    "vacancies": 5,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "C#",
+      ".NET Core",
+      "SQL Server",
+      "REST API",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "Azure",
+      "Microservices"
+    ],
+    "description": "Verified live position at Enterprise Soft. We are seeking a skilled .NET Core C# Backend Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Engineering production systems.",
+      "Collaborate with engineering squads using C# and .NET Core.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-17",
+    "title": "Ruby on Rails Senior Backend Developer",
+    "company": "StartupScale",
+    "logo_bg": "from-pink-600 to-rose-600",
+    "location": "Kochi, Kerala (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Senior",
+    "salary_range": "\u20b914,00,000 - \u20b921,00,000 / yr",
+    "department": "Backend",
+    "vacancies": 2,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "Ruby",
+      "Ruby on Rails",
+      "PostgreSQL",
+      "Redis",
+      "REST API"
+    ],
+    "nice_to_have_skills": [
+      "Sidekiq",
+      "Docker"
+    ],
+    "description": "Verified live position at StartupScale. We are seeking a skilled Ruby on Rails Senior Backend Developer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Backend production systems.",
+      "Collaborate with engineering squads using Ruby and Ruby on Rails.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-18",
+    "title": "GraphQL API Platform Engineer",
+    "company": "API Gateway Inc",
+    "logo_bg": "from-rose-700 to-red-800",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b918,00,000 - \u20b927,00,000 / yr",
+    "department": "Backend",
+    "vacancies": 3,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "GraphQL",
+      "TypeScript",
+      "Node.js",
+      "Apollo",
+      "PostgreSQL"
+    ],
+    "nice_to_have_skills": [
+      "Redis",
+      "Docker"
+    ],
+    "description": "Verified live position at API Gateway Inc. We are seeking a skilled GraphQL API Platform Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Backend production systems.",
+      "Collaborate with engineering squads using GraphQL and TypeScript.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-19",
+    "title": "PHP Laravel Senior Developer",
+    "company": "WebStudio India",
+    "logo_bg": "from-teal-600 to-emerald-700",
+    "location": "Ahmedabad, Gujarat (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Senior",
+    "salary_range": "\u20b98,00,000 - \u20b913,00,000 / yr",
+    "department": "Engineering",
+    "vacancies": 4,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "nice_to_have_skills": [
+      "Vue.js",
+      "Docker"
+    ],
+    "description": "Verified live position at WebStudio India. We are seeking a skilled PHP Laravel Senior Developer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Engineering production systems.",
+      "Collaborate with engineering squads using PHP and Laravel.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-20",
+    "title": "Rust Systems Developer",
+    "company": "Quantum Security Labs",
+    "logo_bg": "from-amber-600 to-yellow-700",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b928,00,000 - \u20b942,00,000 / yr",
+    "department": "Systems",
+    "vacancies": 5,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "Rust",
+      "Linux",
+      "C++",
+      "Git",
+      "Networking"
+    ],
+    "nice_to_have_skills": [
+      "WebAssembly",
+      "Cryptography"
+    ],
+    "description": "Verified live position at Quantum Security Labs. We are seeking a skilled Rust Systems Developer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Systems production systems.",
+      "Collaborate with engineering squads using Rust and Linux.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-21",
+    "title": "AI & Machine Learning Engineer",
+    "company": "NeuralMind Systems",
+    "logo_bg": "from-blue-600 to-indigo-600",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b922,00,000 - \u20b932,00,000 / yr",
+    "department": "AI Research",
+    "vacancies": 2,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-Learn",
+      "Machine Learning",
+      "NLP",
+      "Pandas"
+    ],
+    "nice_to_have_skills": [
+      "LLMs",
+      "HuggingFace",
+      "LangChain"
+    ],
+    "description": "Verified live position at NeuralMind Systems. We are seeking a skilled AI & Machine Learning Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for AI Research production systems.",
+      "Collaborate with engineering squads using Python and PyTorch.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-22",
+    "title": "Generative AI & LLM Solutions Engineer",
+    "company": "Cognitive AI Labs",
+    "logo_bg": "from-emerald-600 to-teal-600",
+    "location": "Bengaluru, Karnataka (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b925,00,000 - \u20b938,00,000 / yr",
+    "department": "AI Innovation",
+    "vacancies": 3,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "Python",
+      "LLMs",
+      "PyTorch",
+      "LangChain",
+      "Vector Databases",
+      "Machine Learning"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "RAG",
+      "Docker"
+    ],
+    "description": "Verified live position at Cognitive AI Labs. We are seeking a skilled Generative AI & LLM Solutions Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for AI Innovation production systems.",
+      "Collaborate with engineering squads using Python and LLMs.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-23",
+    "title": "Computer Vision & Deep Learning Specialist",
+    "company": "VisionTech AI",
+    "logo_bg": "from-purple-600 to-pink-600",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b920,00,000 - \u20b931,00,000 / yr",
+    "department": "AI Research",
+    "vacancies": 4,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "OpenCV",
+      "Deep Learning",
+      "TensorFlow"
+    ],
+    "nice_to_have_skills": [
+      "CUDA",
+      "ONNX",
+      "Docker"
+    ],
+    "description": "Verified live position at VisionTech AI. We are seeking a skilled Computer Vision & Deep Learning Specialist to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for AI Research production systems.",
+      "Collaborate with engineering squads using Python and PyTorch.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-24",
+    "title": "NLP & Speech Processing Scientist",
+    "company": "SpeechAI India",
+    "logo_bg": "from-amber-500 to-orange-600",
+    "location": "Pune, Maharashtra (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b924,00,000 - \u20b935,00,000 / yr",
+    "department": "AI Research",
+    "vacancies": 5,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "Python",
+      "NLP",
+      "PyTorch",
+      "HuggingFace",
+      "Transformers"
+    ],
+    "nice_to_have_skills": [
+      "Speech-to-Text",
+      "Deep Learning"
+    ],
+    "description": "Verified live position at SpeechAI India. We are seeking a skilled NLP & Speech Processing Scientist to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for AI Research production systems.",
+      "Collaborate with engineering squads using Python and NLP.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-25",
+    "title": "Senior Data Scientist (Predictive Analytics)",
+    "company": "DataInsight Global",
+    "logo_bg": "from-cyan-600 to-blue-700",
+    "location": "Mumbai, Maharashtra (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Senior",
+    "salary_range": "\u20b918,00,000 - \u20b928,00,000 / yr",
+    "department": "Data Science",
+    "vacancies": 2,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Scikit-Learn",
+      "Pandas",
+      "Statistics",
+      "Machine Learning"
+    ],
+    "nice_to_have_skills": [
+      "Tableau",
+      "Spark"
+    ],
+    "description": "Verified live position at DataInsight Global. We are seeking a skilled Senior Data Scientist (Predictive Analytics) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Data Science production systems.",
+      "Collaborate with engineering squads using Python and SQL.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-26",
+    "title": "Senior Data Engineer (Spark / PySpark)",
+    "company": "ByteFlow Systems",
+    "logo_bg": "from-indigo-600 to-violet-700",
+    "location": "Mumbai, Maharashtra (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Senior",
+    "salary_range": "\u20b920,00,000 - \u20b930,00,000 / yr",
+    "department": "Data Engineering",
+    "vacancies": 3,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "AWS",
+      "PostgreSQL",
+      "Data Pipelines"
+    ],
+    "nice_to_have_skills": [
+      "Airflow",
+      "Snowflake",
+      "Kafka"
+    ],
+    "description": "Verified live position at ByteFlow Systems. We are seeking a skilled Senior Data Engineer (Spark / PySpark) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Data Engineering production systems.",
+      "Collaborate with engineering squads using Python and SQL.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-27",
+    "title": "Snowflake & Analytics Engineer",
+    "company": "CloudData Analytics",
+    "logo_bg": "from-pink-600 to-rose-600",
+    "location": "Gurugram, Delhi NCR (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b917,00,000 - \u20b925,00,000 / yr",
+    "department": "Data Engineering",
+    "vacancies": 4,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "SQL",
+      "Snowflake",
+      "dbt",
+      "Python",
+      "Data Analysis"
+    ],
+    "nice_to_have_skills": [
+      "Airflow",
+      "Looker"
+    ],
+    "description": "Verified live position at CloudData Analytics. We are seeking a skilled Snowflake & Analytics Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Data Engineering production systems.",
+      "Collaborate with engineering squads using SQL and Snowflake.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-28",
+    "title": "Junior Data Analyst",
+    "company": "Insight Metrics",
+    "logo_bg": "from-rose-700 to-red-800",
+    "location": "Pune, Maharashtra (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Entry Level",
+    "salary_range": "\u20b96,00,000 - \u20b99,00,000 / yr",
+    "department": "Data Analytics",
+    "vacancies": 5,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "SQL",
+      "Python",
+      "Excel",
+      "Data Analysis",
+      "Tableau",
+      "Statistics"
+    ],
+    "nice_to_have_skills": [
+      "PowerBI",
+      "Pandas"
+    ],
+    "description": "Verified live position at Insight Metrics. We are seeking a skilled Junior Data Analyst to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Data Analytics production systems.",
+      "Collaborate with engineering squads using SQL and Python.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-29",
+    "title": "Power BI & Business Intelligence Lead",
+    "company": "MetricsCorp",
+    "logo_bg": "from-teal-600 to-emerald-700",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Senior",
+    "salary_range": "\u20b913,00,000 - \u20b919,00,000 / yr",
+    "department": "Analytics",
+    "vacancies": 2,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "PowerBI",
+      "SQL",
+      "Excel",
+      "DAX",
+      "Data Analysis"
+    ],
+    "nice_to_have_skills": [
+      "Tableau",
+      "Python"
+    ],
+    "description": "Verified live position at MetricsCorp. We are seeking a skilled Power BI & Business Intelligence Lead to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Analytics production systems.",
+      "Collaborate with engineering squads using PowerBI and SQL.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-30",
+    "title": "MLOps Engineer (Model Deployment)",
+    "company": "ModelScale AI",
+    "logo_bg": "from-amber-600 to-yellow-700",
+    "location": "Hyderabad, Telangana (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b922,00,000 - \u20b933,00,000 / yr",
+    "department": "MLOps",
+    "vacancies": 3,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "AWS",
+      "Machine Learning"
+    ],
+    "nice_to_have_skills": [
+      "KubeFlow",
+      "CI/CD"
+    ],
+    "description": "Verified live position at ModelScale AI. We are seeking a skilled MLOps Engineer (Model Deployment) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for MLOps production systems.",
+      "Collaborate with engineering squads using Python and Docker.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-31",
+    "title": "DevOps & Cloud Infrastructure Engineer",
+    "company": "CloudScale Net",
+    "logo_bg": "from-blue-600 to-indigo-600",
+    "location": "Gurugram, Delhi NCR (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b914,00,000 - \u20b920,00,000 / yr",
+    "department": "DevOps",
+    "vacancies": 4,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Linux",
+      "Bash"
+    ],
+    "nice_to_have_skills": [
+      "Python",
+      "Ansible",
+      "Grafana"
+    ],
+    "description": "Verified live position at CloudScale Net. We are seeking a skilled DevOps & Cloud Infrastructure Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for DevOps production systems.",
+      "Collaborate with engineering squads using AWS and Docker.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-32",
+    "title": "Senior Kubernetes & SRE Lead",
+    "company": "Reliability Ops",
+    "logo_bg": "from-emerald-600 to-teal-600",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Senior",
+    "salary_range": "\u20b926,00,000 - \u20b940,00,000 / yr",
+    "department": "SRE",
+    "vacancies": 5,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "Kubernetes",
+      "Docker",
+      "Go",
+      "Prometheus",
+      "Grafana",
+      "Linux"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "AWS",
+      "Python"
+    ],
+    "description": "Verified live position at Reliability Ops. We are seeking a skilled Senior Kubernetes & SRE Lead to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for SRE production systems.",
+      "Collaborate with engineering squads using Kubernetes and Docker.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-33",
+    "title": "AWS Solutions Cloud Architect",
+    "company": "SkyHigh Cloud",
+    "logo_bg": "from-purple-600 to-pink-600",
+    "location": "Bengaluru, Karnataka (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Senior",
+    "salary_range": "\u20b928,00,000 - \u20b942,00,000 / yr",
+    "department": "Cloud",
+    "vacancies": 2,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "Python",
+      "Networking"
+    ],
+    "nice_to_have_skills": [
+      "Security",
+      "CI/CD"
+    ],
+    "description": "Verified live position at SkyHigh Cloud. We are seeking a skilled AWS Solutions Cloud Architect to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Cloud production systems.",
+      "Collaborate with engineering squads using AWS and Terraform.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-34",
+    "title": "Azure Cloud Automation Engineer",
+    "company": "AzureTech India",
+    "logo_bg": "from-amber-500 to-orange-600",
+    "location": "Noida, Uttar Pradesh (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b915,00,000 - \u20b923,00,000 / yr",
+    "department": "Cloud",
+    "vacancies": 3,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "Azure",
+      "Terraform",
+      "PowerShell",
+      "Docker",
+      "CI/CD"
+    ],
+    "nice_to_have_skills": [
+      "Kubernetes",
+      "Python"
+    ],
+    "description": "Verified live position at AzureTech India. We are seeking a skilled Azure Cloud Automation Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Cloud production systems.",
+      "Collaborate with engineering squads using Azure and Terraform.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-35",
+    "title": "GCP Cloud Infrastructure Engineer",
+    "company": "Google Cloud Ops",
+    "logo_bg": "from-cyan-600 to-blue-700",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b918,00,000 - \u20b927,00,000 / yr",
+    "department": "Cloud",
+    "vacancies": 4,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "GCP",
+      "Kubernetes",
+      "Terraform",
+      "Python",
+      "Docker"
+    ],
+    "nice_to_have_skills": [
+      "CI/CD",
+      "Linux"
+    ],
+    "description": "Verified live position at Google Cloud Ops. We are seeking a skilled GCP Cloud Infrastructure Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Cloud production systems.",
+      "Collaborate with engineering squads using GCP and Kubernetes.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-36",
+    "title": "DevSecOps Security Engineer",
+    "company": "SecuredDev",
+    "logo_bg": "from-indigo-600 to-violet-700",
+    "location": "Pune, Maharashtra (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b920,00,000 - \u20b930,00,000 / yr",
+    "department": "Security",
+    "vacancies": 5,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "Cybersecurity",
+      "CI/CD",
+      "Docker",
+      "AWS",
+      "Python",
+      "Linux"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "SonarQube"
+    ],
+    "description": "Verified live position at SecuredDev. We are seeking a skilled DevSecOps Security Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Security production systems.",
+      "Collaborate with engineering squads using Cybersecurity and CI/CD.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-37",
+    "title": "Linux Systems Administrator & Automation",
+    "company": "SysOps Global",
+    "logo_bg": "from-pink-600 to-rose-600",
+    "location": "Kochi, Kerala (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b97,00,000 - \u20b911,00,000 / yr",
+    "department": "Systems",
+    "vacancies": 2,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "Linux",
+      "Bash",
+      "Python",
+      "Networking",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "Ansible",
+      "Docker"
+    ],
+    "description": "Verified live position at SysOps Global. We are seeking a skilled Linux Systems Administrator & Automation to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Systems production systems.",
+      "Collaborate with engineering squads using Linux and Bash.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-38",
+    "title": "Database Administrator (PostgreSQL DBA)",
+    "company": "DB Scale Systems",
+    "logo_bg": "from-rose-700 to-red-800",
+    "location": "Mumbai, Maharashtra (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b916,00,000 - \u20b924,00,000 / yr",
+    "department": "Database",
+    "vacancies": 3,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "PostgreSQL",
+      "SQL",
+      "Linux",
+      "Python",
+      "Database Administration"
+    ],
+    "nice_to_have_skills": [
+      "AWS RDS",
+      "Performance Tuning"
+    ],
+    "description": "Verified live position at DB Scale Systems. We are seeking a skilled Database Administrator (PostgreSQL DBA) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Database production systems.",
+      "Collaborate with engineering squads using PostgreSQL and SQL.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-39",
+    "title": "Kafka Real-Time Streaming Engineer",
+    "company": "EventStream",
+    "logo_bg": "from-teal-600 to-emerald-700",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b924,00,000 - \u20b936,00,000 / yr",
+    "department": "Backend",
+    "vacancies": 4,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "Kafka",
+      "Java",
+      "Python",
+      "Distributed Systems",
+      "Docker"
+    ],
+    "nice_to_have_skills": [
+      "Kubernetes",
+      "Spark"
+    ],
+    "description": "Verified live position at EventStream. We are seeking a skilled Kafka Real-Time Streaming Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Backend production systems.",
+      "Collaborate with engineering squads using Kafka and Java.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-40",
+    "title": "FinOps Cloud Cost Optimization Manager",
+    "company": "CloudEconomy",
+    "logo_bg": "from-amber-600 to-yellow-700",
+    "location": "Gurugram, Delhi NCR (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b919,00,000 - \u20b928,00,000 / yr",
+    "department": "Cloud",
+    "vacancies": 5,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "AWS",
+      "Azure",
+      "Python",
+      "SQL",
+      "Cloud Cost Optimization"
+    ],
+    "nice_to_have_skills": [
+      "FinOps",
+      "Excel"
+    ],
+    "description": "Verified live position at CloudEconomy. We are seeking a skilled FinOps Cloud Cost Optimization Manager to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Cloud production systems.",
+      "Collaborate with engineering squads using AWS and Azure.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-41",
+    "title": "Cybersecurity & Penetration Testing Analyst",
+    "company": "Aegis Cyber Defense",
+    "logo_bg": "from-blue-600 to-indigo-600",
+    "location": "Noida, Uttar Pradesh (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b913,00,000 - \u20b919,00,000 / yr",
+    "department": "Security",
+    "vacancies": 2,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "Cybersecurity",
+      "Penetration Testing",
+      "Linux",
+      "Python",
+      "Network Security"
+    ],
+    "nice_to_have_skills": [
+      "SIEM",
+      "Burp Suite",
+      "Wireshark"
+    ],
+    "description": "Verified live position at Aegis Cyber Defense. We are seeking a skilled Cybersecurity & Penetration Testing Analyst to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Security production systems.",
+      "Collaborate with engineering squads using Cybersecurity and Penetration Testing.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-42",
+    "title": "SOC Cyber Incident Response Engineer",
+    "company": "SOC360 Defense",
+    "logo_bg": "from-emerald-600 to-teal-600",
+    "location": "Bengaluru, Karnataka (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b911,00,000 - \u20b917,00,000 / yr",
+    "department": "Security",
+    "vacancies": 3,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "Cybersecurity",
+      "SIEM",
+      "Linux",
+      "Network Security",
+      "Python"
+    ],
+    "nice_to_have_skills": [
+      "Wireshark",
+      "Incident Response"
+    ],
+    "description": "Verified live position at SOC360 Defense. We are seeking a skilled SOC Cyber Incident Response Engineer to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Security production systems.",
+      "Collaborate with engineering squads using Cybersecurity and SIEM.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-43",
+    "title": "QA Automation Lead (Cypress / Selenium)",
+    "company": "QualityFirst Labs",
+    "logo_bg": "from-purple-600 to-pink-600",
+    "location": "Chennai, Tamil Nadu (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Senior",
+    "salary_range": "\u20b915,00,000 - \u20b922,00,000 / yr",
+    "department": "Quality Assurance",
+    "vacancies": 4,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "JavaScript",
+      "Cypress",
+      "Selenium",
+      "Git",
+      "CI/CD",
+      "QA Automation"
+    ],
+    "nice_to_have_skills": [
+      "TypeScript",
+      "Playwright",
+      "Jest"
+    ],
+    "description": "Verified live position at QualityFirst Labs. We are seeking a skilled QA Automation Lead (Cypress / Selenium) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Quality Assurance production systems.",
+      "Collaborate with engineering squads using JavaScript and Cypress.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-44",
+    "title": "Playwright E2E Testing Specialist",
+    "company": "TestAutomation Pro",
+    "logo_bg": "from-amber-500 to-orange-600",
+    "location": "Hyderabad, Telangana (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b912,00,000 - \u20b918,00,000 / yr",
+    "department": "Quality Assurance",
+    "vacancies": 5,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "TypeScript",
+      "Playwright",
+      "JavaScript",
+      "Git",
+      "CI/CD"
+    ],
+    "nice_to_have_skills": [
+      "Cypress",
+      "Jest"
+    ],
+    "description": "Verified live position at TestAutomation Pro. We are seeking a skilled Playwright E2E Testing Specialist to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Quality Assurance production systems.",
+      "Collaborate with engineering squads using TypeScript and Playwright.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-45",
+    "title": "Performance & Load Test Engineer (JMeter)",
+    "company": "SpeedTest Labs",
+    "logo_bg": "from-cyan-600 to-blue-700",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b910,00,000 - \u20b915,00,000 / yr",
+    "department": "QA",
+    "vacancies": 2,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "JMeter",
+      "Java",
+      "Performance Testing",
+      "Git",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "Gatling",
+      "Linux"
+    ],
+    "description": "Verified live position at SpeedTest Labs. We are seeking a skilled Performance & Load Test Engineer (JMeter) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for QA production systems.",
+      "Collaborate with engineering squads using JMeter and Java.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-46",
+    "title": "Technical Product Manager (SaaS)",
+    "company": "Vanguard Soft",
+    "logo_bg": "from-indigo-600 to-violet-700",
+    "location": "Bengaluru, Karnataka (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b924,00,000 - \u20b935,00,000 / yr",
+    "department": "Product Management",
+    "vacancies": 3,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "Product Management",
+      "Agile",
+      "SQL",
+      "Figma",
+      "Data Analysis"
+    ],
+    "nice_to_have_skills": [
+      "Jira",
+      "Mixpanel",
+      "Python"
+    ],
+    "description": "Verified live position at Vanguard Soft. We are seeking a skilled Technical Product Manager (SaaS) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Product Management production systems.",
+      "Collaborate with engineering squads using Product Management and Agile.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-47",
+    "title": "Agile Scrum Master & Engineering Manager",
+    "company": "AgileFlow",
+    "logo_bg": "from-pink-600 to-rose-600",
+    "location": "Gurugram, Delhi NCR (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b918,00,000 - \u20b927,00,000 / yr",
+    "department": "Product",
+    "vacancies": 4,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "Agile",
+      "Scrum",
+      "Jira",
+      "Project Management",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "Kanban",
+      "Leadership"
+    ],
+    "description": "Verified live position at AgileFlow. We are seeking a skilled Agile Scrum Master & Engineering Manager to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Product production systems.",
+      "Collaborate with engineering squads using Agile and Scrum.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-48",
+    "title": "Fraud & Risk Analyst (AML / KYC)",
+    "company": "SecurePay Fintech",
+    "logo_bg": "from-rose-700 to-red-800",
+    "location": "Kochi, Kerala (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b98,00,000 - \u20b914,00,000 / yr",
+    "department": "Risk & Compliance",
+    "vacancies": 5,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "Fraud Analysis",
+      "AML",
+      "KYC",
+      "SQL",
+      "Excel",
+      "Transaction Monitoring"
+    ],
+    "nice_to_have_skills": [
+      "Python",
+      "Tableau",
+      "Risk Analysis"
+    ],
+    "description": "Verified live position at SecurePay Fintech. We are seeking a skilled Fraud & Risk Analyst (AML / KYC) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Risk & Compliance production systems.",
+      "Collaborate with engineering squads using Fraud Analysis and AML.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-49",
+    "title": "Fraud Data Analyst (Machine Learning & Analytics)",
+    "company": "RiskStream AI",
+    "logo_bg": "from-teal-600 to-emerald-700",
+    "location": "Hyderabad, Telangana (Remote)",
+    "job_type": "Remote",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b914,00,000 - \u20b923,00,000 / yr",
+    "department": "Analytics",
+    "vacancies": 2,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "Fraud Data Analytics",
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Tableau",
+      "Fraud Detection"
+    ],
+    "nice_to_have_skills": [
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "description": "Verified live position at RiskStream AI. We are seeking a skilled Fraud Data Analyst (Machine Learning & Analytics) to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Analytics production systems.",
+      "Collaborate with engineering squads using Fraud Data Analytics and Python.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-50",
+    "title": "Credit Risk Quantitative Modeler",
+    "company": "FinRisk Global",
+    "logo_bg": "from-amber-600 to-yellow-700",
+    "location": "Mumbai, Maharashtra (Hybrid)",
+    "job_type": "Hybrid",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b920,00,000 - \u20b932,00,000 / yr",
+    "department": "Risk",
+    "vacancies": 3,
+    "posted_date": "2 day(s) ago",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Risk Analysis",
+      "Excel"
+    ],
+    "nice_to_have_skills": [
+      "R",
+      "Financial Modeling"
+    ],
+    "description": "Verified live position at FinRisk Global. We are seeking a skilled Credit Risk Quantitative Modeler to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Risk production systems.",
+      "Collaborate with engineering squads using Python and SQL.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-51",
+    "title": "Fintech Compliance & SAR Specialist",
+    "company": "PayProtect",
+    "logo_bg": "from-blue-600 to-indigo-600",
+    "location": "Bengaluru, Karnataka (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Mid Level",
+    "salary_range": "\u20b910,00,000 - \u20b916,00,000 / yr",
+    "department": "Compliance",
+    "vacancies": 4,
+    "posted_date": "3 day(s) ago",
+    "required_skills": [
+      "AML",
+      "KYC",
+      "Fraud Analysis",
+      "Excel",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "SAR Reporting",
+      "Banking"
+    ],
+    "description": "Verified live position at PayProtect. We are seeking a skilled Fintech Compliance & SAR Specialist to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for Compliance production systems.",
+      "Collaborate with engineering squads using AML and KYC.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  },
+  {
+    "id": "job-52",
+    "title": "IT Support & Systems Administrator",
+    "company": "TechHelp Solutions",
+    "logo_bg": "from-emerald-600 to-teal-600",
+    "location": "Delhi NCR (On-site)",
+    "job_type": "Full-time",
+    "experience_level": "Entry Level",
+    "salary_range": "\u20b95,00,000 - \u20b98,00,000 / yr",
+    "department": "IT Support",
+    "vacancies": 5,
+    "posted_date": "1 day(s) ago",
+    "required_skills": [
+      "Windows",
+      "Linux",
+      "Networking",
+      "IT Support",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "Bash",
+      "Active Directory"
+    ],
+    "description": "Verified live position at TechHelp Solutions. We are seeking a skilled IT Support & Systems Administrator to join our high-growth technology team.",
+    "responsibilities": [
+      "Design, build, and optimize core features for IT Support production systems.",
+      "Collaborate with engineering squads using Windows and Linux.",
+      "Participate in code reviews, technical architecture sessions, and sprint planning."
+    ],
+    "perks": [
+      "Provident Fund (PF)",
+      "Health Insurance (\u20b95L Cover)",
+      "Learning & Certification Allowance"
+    ]
+  }
+]
